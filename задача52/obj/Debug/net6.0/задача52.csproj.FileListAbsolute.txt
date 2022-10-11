@@ -1,0 +1,15 @@
+/Users/anastasya/Desktop/дз7/задача52/bin/Debug/net6.0/задача52
+/Users/anastasya/Desktop/дз7/задача52/bin/Debug/net6.0/задача52.deps.json
+/Users/anastasya/Desktop/дз7/задача52/bin/Debug/net6.0/задача52.runtimeconfig.json
+/Users/anastasya/Desktop/дз7/задача52/bin/Debug/net6.0/задача52.dll
+/Users/anastasya/Desktop/дз7/задача52/bin/Debug/net6.0/задача52.pdb
+/Users/anastasya/Desktop/дз7/задача52/obj/Debug/net6.0/задача52.csproj.AssemblyReference.cache
+/Users/anastasya/Desktop/дз7/задача52/obj/Debug/net6.0/задача52.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasya/Desktop/дз7/задача52/obj/Debug/net6.0/задача52.AssemblyInfoInputs.cache
+/Users/anastasya/Desktop/дз7/задача52/obj/Debug/net6.0/задача52.AssemblyInfo.cs
+/Users/anastasya/Desktop/дз7/задача52/obj/Debug/net6.0/задача52.csproj.CoreCompileInputs.cache
+/Users/anastasya/Desktop/дз7/задача52/obj/Debug/net6.0/задача52.dll
+/Users/anastasya/Desktop/дз7/задача52/obj/Debug/net6.0/refint/задача52.dll
+/Users/anastasya/Desktop/дз7/задача52/obj/Debug/net6.0/задача52.pdb
+/Users/anastasya/Desktop/дз7/задача52/obj/Debug/net6.0/задача52.genruntimeconfig.cache
+/Users/anastasya/Desktop/дз7/задача52/obj/Debug/net6.0/ref/задача52.dll
